@@ -21,10 +21,10 @@ Final project of the 42_cursus consisting in creating a onepage fullstack websit
 ### **demo**: https://youtu.be/sY4h8YSjlOM
 ### snapshot ![snapshot](https://github.com/xibaochat/ft_transcendence/blob/master/chat_interface.png)
 ![snapshot](https://github.com/xibaochat/ft_transcendence/blob/master/chat_interface_1.png)
-## schema
+### schema
 ![schema](https://github.com/xibaochat/ft_transcendence/blob/master/structure.png)
 
-## User management
+### User management
 ![User](https://github.com/xibaochat/ft_transcendence/blob/master/auth_42.png)
 
 Some features:
