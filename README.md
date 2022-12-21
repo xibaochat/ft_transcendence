@@ -27,7 +27,9 @@ Final project of the 42_cursus consisting in creating a onepage fullstack websit
 ### User management
 ![User](https://github.com/xibaochat/ft_transcendence/blob/master/auth_42.png)
 
-Some features:
+---
+
+### Some features:
 - create public, protected (public with password), private channels
 - add participants in the channel
 - send direct messages to other participants
@@ -43,14 +45,14 @@ Some features:
 
 Check out the attached subject for more details.
 
-## Installation
+### Installation
 
 To launch the website, make sure docker is running and type this command at the root of the repo:
 
 ```bash
 docker-compose up --build -V
 ```
-## Subject
+### Subject
 #### EN [en_ft_transcendance.pdf](https://github.com/xibaochat/ft_transcendence/blob/master/en_ft_transcendance.pdf)
 #### FR [fr_ft_transcendance.pdf](https://github.com/xibaochat/ft_transcendence/blob/master/fr_ft_transcendance.pdf)
 
