@@ -13,15 +13,19 @@ Final project of the 42_cursus consisting in creating a onepage fullstack websit
 #### number of team: :cat: :cat: :cat: :cat:
 #### difficulty: :star::star::star::star::star:
 
-*participation part**: the whole part of chat (front-end + back-end)
-
+---
+### participation part
++ the whole part of chat (front-end + back-end) 
++ part of user account management
+---
 ### **demo**: https://youtu.be/sY4h8YSjlOM
 ### snapshot ![snapshot](https://github.com/xibaochat/ft_transcendence/blob/master/chat_interface.png)
+![snapshot](https://github.com/xibaochat/ft_transcendence/blob/master/chat_interface_1.png)
 ## schema
 ![schema](https://github.com/xibaochat/ft_transcendence/blob/master/structure.png)
 
 ## User management
-![User](https://github.com/xibaochat/ft_transcendence/edit/master/README.md)
+![User](https://github.com/xibaochat/ft_transcendence/blob/master/auth_42.png)
 
 Some features:
 - create public, protected (public with password), private channels
