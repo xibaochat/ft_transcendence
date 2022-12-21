@@ -16,7 +16,7 @@ Final project of the 42_cursus consisting in creating a onepage fullstack websit
 *participation part**: the whole part of chat (front-end + back-end)
 
 ### **demo**: https://youtu.be/sY4h8YSjlOM
-### [snapshot]:eyes:: https://github.com/xibaochat/ft_transcendence/blob/master/chat_interface.png
+### snapshot ![snapshot](https://github.com/xibaochat/ft_transcendence/blob/master/chat_interface.png)
 ## schema
 ![schema](https://github.com/xibaochat/ft_transcendence/blob/master/structure.png)
 
