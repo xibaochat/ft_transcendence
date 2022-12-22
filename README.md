@@ -22,6 +22,10 @@
 
 </div>
 
+### Subject:
+#### EN [en_ft_transcendance.pdf](https://github.com/xibaochat/ft_transcendence/blob/master/en_ft_transcendance.pdf)
+#### FR [fr_ft_transcendance.pdf](https://github.com/xibaochat/ft_transcendence/blob/master/fr_ft_transcendance.pdf)
+
 
 ### Some features:
 - create public, protected (public with password), private channels
@@ -46,9 +50,6 @@ To launch the website, make sure docker is running and type this command at the 
 ```bash
 docker-compose up --build -V
 ```
-### Subject:
-#### EN [en_ft_transcendance.pdf](https://github.com/xibaochat/ft_transcendence/blob/master/en_ft_transcendance.pdf)
-#### FR [fr_ft_transcendance.pdf](https://github.com/xibaochat/ft_transcendence/blob/master/fr_ft_transcendance.pdf)
 
 
 ---
