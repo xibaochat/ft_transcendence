@@ -60,7 +60,7 @@ docker-compose up --build -V
 ### docker compose schema
 ![schema](https://github.com/xibaochat/ft_transcendence/blob/master/structure.png)
 
-### User management
+### oauth schema
 ![User](https://github.com/xibaochat/ft_transcendence/blob/master/auth_42.png)
 
 ---
