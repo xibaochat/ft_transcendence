@@ -11,16 +11,29 @@
  <img src="https://img.shields.io/badge/DOCKER-0DB7ED?style=for-the-badge&logo=docker&logoColor=white">
  <img src="https://img.shields.io/badge/PostgreSQL-4895ef?style=for-the-badge&logo=postgresql&logoColor=white">
 </p>
+</br>
 
-</br></br>
 
-<div align="center">
+
+
+
+<table  align="center">
+<td>
+ <b face="arial" >final mark<br><br></font></b></p>
+ <img src="https://github.com/xibaochat/ft_transcendence/blob/master/final_mark.png">
+
+</td>
+<td>
 
 | interest                     | number of team          | difficulty                      |
 | ---------------------------- | ----------              | ----------                      |
 |    :star::star::star::star:  | :cat: :cat: :cat: :cat: |  :star::star::star::star::star: |
 
-</div>
+</td>
+</tr>
+</table>
+
+
 
 ### Subject:
 #### EN [en_ft_transcendance.pdf](https://github.com/xibaochat/ft_transcendence/blob/master/en_ft_transcendance.pdf)
